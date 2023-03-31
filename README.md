@@ -1,7 +1,7 @@
 # neofetch-config
 My own neofetch configuration.
 
-![example](./example/summer-info.png)
+![example](./example/summer-dotted-info.png)
 
 ```shell
 neofetch --config /path/to/config/file --chafa --source /path/to/img
