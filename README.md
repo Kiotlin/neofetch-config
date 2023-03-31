@@ -11,3 +11,5 @@ neofetch --config /path/to/config/file --chafa --source /path/to/img
 
  - Chafa
  - iTerm2
+
+Illustration Origin: [あつい](https://www.pixiv.net/artworks/99402946)
